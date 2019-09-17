@@ -1,0 +1,22 @@
+{
+  "name": "ZBTNetworkings",
+  "version": "0.1.0",
+  "summary": "A short description of ZBTNetworkings.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/940576443@qq.com/ZBTNetworkings",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "940576443@qq.com": "940576443@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/940576443@qq.com/ZBTNetworkings.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZBTNetworkings/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module ZBTNetworkings {
+  umbrella header "ZBTNetworkings-umbrella.h"
+
+  export *
+  module * { export * }
+}
