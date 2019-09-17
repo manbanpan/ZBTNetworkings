@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZBTNetworkings_Example' do
+  pod 'ZBTNetworkings', :path => '../'
+
+  target 'ZBTNetworkings_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
